@@ -388,7 +388,5 @@ namespace lab_6_7
             Tab_SignUp_TextBox_ClientPassword.Text = "Password";
             Tab_SignUp_TextBox_ClientPassword—onfirmation.Text = "Password";
         }
-
-        
     }
 }
